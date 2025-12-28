@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"Get-Content ''DST_GNN_Pornography_Addiction_Detection.ipynb'' | Select-Object -First 400\")",
+      "Bash(powershell -Command \"Select-String -Path ''DST_GNN_Pornography_Addiction_Detection.ipynb'' -Pattern ''\"\"output_type\"\":\\\\s*\"\"error\"\"'' -Context 2,10\")",
+      "Bash(python:*)"
+    ]
+  }
+}
