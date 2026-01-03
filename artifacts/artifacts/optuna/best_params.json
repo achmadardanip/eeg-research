@@ -1,0 +1,9 @@
+{
+  "lr": 0.000668398595412541,
+  "hidden_dim": 64,
+  "gat_heads": 2,
+  "gru_layers": 2,
+  "gru_hidden": 128,
+  "dropout": 0.18236450000453938,
+  "weight_decay": 3.529720252814932e-05
+}

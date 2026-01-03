@@ -1,0 +1,15 @@
+subject,true_label,pred_label,probability,correct,error_type
+S1,Addicted,Addicted,0.5136153101921082,True,
+S2,Not Addicted,Addicted,0.5154398679733276,False,False Positive (False Alarm)
+S3,Not Addicted,Addicted,0.5031682252883911,False,False Positive (False Alarm)
+S4,Not Addicted,Addicted,0.5063866972923279,False,False Positive (False Alarm)
+S5,Addicted,Addicted,0.5066763758659363,True,
+S6,Addicted,Addicted,0.5174114108085632,True,
+S7,Not Addicted,Addicted,0.5077801942825317,False,False Positive (False Alarm)
+S8,Not Addicted,Not Addicted,0.4924844205379486,True,
+S9,Addicted,Not Addicted,0.48710712790489197,False,False Negative (Missed Addiction)
+S10,Addicted,Addicted,0.5025066137313843,True,
+S11,Addicted,Addicted,0.5007613897323608,True,
+S12,Not Addicted,Addicted,0.5034272074699402,False,False Positive (False Alarm)
+S13,Not Addicted,Not Addicted,0.49960219860076904,True,
+S14,Addicted,Addicted,0.5300244688987732,True,

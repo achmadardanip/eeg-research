@@ -1,0 +1,10 @@
+feature,importance,category
+beta,1.0,Bandpower
+hjorth_activity,0.9059219,Hjorth
+gamma,0.88755727,Bandpower
+alpha,0.8298247,Bandpower
+hjorth_mobility,0.7670697,Hjorth
+padding,0.684526,Other
+delta,0.6829297,Bandpower
+theta,0.67819816,Bandpower
+hjorth_complexity,0.48962834,Hjorth

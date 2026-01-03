@@ -1,0 +1,16 @@
+# Results Summary Statistics
+Generated: 2026-01-03 13:12:45
+
+## Files Included
+- Total artifact files: 66
+- Notebook included: No
+
+## Artifact Categories
+- figures: 19 files
+- tables: 5 files
+- models: 2 files
+- optuna: 4 files
+- explainability: 30 files
+- logs: 1 files
+- reports: 2 files
+- data_cache: 3 files
